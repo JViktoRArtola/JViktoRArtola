@@ -18,8 +18,6 @@
   </h1>
 </div>
 
----
-
 ### 👨‍💻 About Me
 
 I'm a **Senior Full Stack Engineer** with over a decade of experience turning innovative ideas into scalable solutions.
