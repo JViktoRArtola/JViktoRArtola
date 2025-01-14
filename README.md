@@ -125,3 +125,8 @@ Lifelong Learning, Excellence, Sustainability, Transparency, Empathy and a relen
 - 🐦 [Twitter](https://x.com/victorakatesla)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jvictor-artola/)  
 
+---
+
+### 🔥 My Stats
+
+[![Top Langs](https://github-readme-stats-tesla.vercel.app/api/top-langs/?username=JViktoRArtola&layout=compact)](https://github.com/JViktoRArtola/github-readme-stats)
