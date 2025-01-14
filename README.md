@@ -129,4 +129,4 @@ Lifelong Learning, Excellence, Sustainability, Transparency, Empathy and a relen
 
 ### 🔥 My Stats
 
-[![Top Langs](https://github-readme-stats-tesla.vercel.app/api/top-langs/?username=JViktoRArtola&layout=compact)](https://github.com/JViktoRArtola/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tesla.vercel.app/api/top-langs/?username=JViktoRArtola&layout=compact&langs_count=8)](https://github.com/JViktoRArtola/github-readme-stats)
